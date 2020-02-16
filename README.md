@@ -1,1 +1,1 @@
-
+Django learning record
